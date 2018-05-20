@@ -1,0 +1,3 @@
+http://fr.gitbaby.com/git-server-comme-github.html :un site qui explique comment se
+faire un site github personnel.
+Il y a aussi www.gitlab.org qui est gratuit - Mais github aussi est gratuit, mais public!

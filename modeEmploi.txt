@@ -1,0 +1,17 @@
+   ## copier localement un dossier existant sur github
+   37  git clone https://github.com/micho102/gitUtils.git
+   39  cd gitUtils/
+   40  ls
+   # editer un fichier existant de ce dossier
+   41  vim Alire.txt 
+   # alors <git status> indique une modif
+   42  git status
+   # pr pusher cette modif sur le net:
+   43  git commit -a
+   # mais d'abord il faut s'identifier ( une fois par dossier?)
+   44  git config  -global user.name "micho102"  ## erreur il faut --global au lieu de -global
+   45  git config  --global user.name "micho102"
+   46  git config  --global user.email "micho102@yahoo.fr"
+   47  git commit -a
+   # et verifier que tt va bien:
+   48  git status

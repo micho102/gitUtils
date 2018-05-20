@@ -15,3 +15,7 @@
    47  git commit -a
    # et verifier que tt va bien:
    48  git status
+   ------------ ci-dessus ok pour les modif:  
+   --------pour pusher un nouveau fichier, il faut faire plusieurs manip que je décrirais d'abord en local
+   ------- ce qui est chiant de rentrer son password sans echo (pas de * par lettre )
+   --- mais qd on ajoute un fichier, c'est mieux de le décrire que de dire: un fichier ajouté !!

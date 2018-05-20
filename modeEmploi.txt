@@ -30,3 +30,16 @@
    -- mais contrairement à ce que je croyais, on peut faire plusieurs modifs successives au travers du browser,
    -- en pressant <commit changes> à chaque fois!
    -- je confirme!!
+   # attention aux accents:à est sensé être <a grave>. A cause de vim? Ds le browser pas de problème!
+   # on note ds vim : être au lieu de etre = un blanc ajouté
+   # et ème au lieu de eme = blanc ajouté!
+   # et él : idem!
+   # il pourrait être intéressant d'avoir un user latem et un user bxl? ou pas?
+   # donc en bref:
+   # pour transmettre les modif: <git push> MAIS d'abord faire <git commit -a> 
+   #                                        ou <git add .> si on a ajouté des fichiers
+   # pour récupérer des modifs: < git pull>
+   ##
+   ### <git status> est MON AMI, il explicite ce qu'il y a à faire!!
+   #
+

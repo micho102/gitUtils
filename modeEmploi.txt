@@ -22,4 +22,7 @@
    ## indique modif a partir de mon pc, en local d'abord
    -- indique modif a partir du cloud, cad via le browser ds le site github meme--
    ## pr recuperer en local les modifs faites via le browser ds le site github, il faut faire <git pull>
-   ## il ne semble pas possible de repercuter ces modifs a partir du browser (=> pas de commit ds le browser?!)
+   ## il ne semble pas possible de repercuter ces modifs a partir du browser (=> pas de push/pull ds le browser?!)
+   --- apparemment, il faut faire en plusieurs étapes:
+   --- 1. git commit -a
+   --- 2. git push           et c'est ici qu'a chaque fois il faut introduire nom et passwd ( sans echo => penible)

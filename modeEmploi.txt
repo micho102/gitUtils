@@ -19,3 +19,7 @@
    --------pour pusher un nouveau fichier, il faut faire plusieurs manip que je décrirais d'abord en local
    ------- ce qui est chiant de rentrer son password sans echo (pas de * par lettre )
    --- mais qd on ajoute un fichier, c'est mieux de le décrire que de dire: un fichier ajouté !!
+   ## indique modif a partir de mon pc, en local d'abord
+   -- indique modif a partir du cloud, cad via le browser ds le site github meme--
+   ## pr recuperer en local les modifs faites via le browser ds le site github, il faut faire <git pull>
+   ## il ne semble pas possible de repercuter ces modifs a partir du browser (=> pas de commit ds le browser?!)

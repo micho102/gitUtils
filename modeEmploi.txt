@@ -26,3 +26,6 @@
    --- apparemment, il faut faire en plusieurs étapes:
    --- 1. git commit -a
    --- 2. git push           et c'est ici qu'a chaque fois il faut introduire nom et passwd ( sans echo => penible)
+   
+   -- mais contrairement à ce que je croyais, on peut faire plusieurs modifs successives au travers du browser,
+   -- en pressant <commit changes> à chaque fois!

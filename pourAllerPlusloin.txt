@@ -1,3 +1,7 @@
 http://fr.gitbaby.com/git-server-comme-github.html :un site qui explique comment se
 faire un site github personnel.
 Il y a aussi www.gitlab.org qui est gratuit - Mais github aussi est gratuit, mais public!
+un gros avantage/désavantage de gitlab :ssh
+un avantage pcq ca permet de ne pas a chaque fois entrer id/passwd
+desavantage pcq il faut generer des cles, et qd on passe d'un ordi à l'autre, il faut 
+faire une copie de ces clés ( ou quoi?? a voir plus tard! ).
